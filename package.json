@@ -1,0 +1,15 @@
+{
+  "name": "check-availability",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.46.1",
+    "cors": "^2.8.5"
+  }
+}
